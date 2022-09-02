@@ -1,0 +1,39 @@
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 100000 10
+ *  History restored 
+
+
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 300
+{
+  result: 9056,
+  num: '611806192382686520251668485947453639974857292828833048973190139714218832084139396808003678379835357149129778823325148947768375978890661341521436962018511737085506682866913938110273385942785685100829131161132754912292556885844681478272998894477797447702311321695860261552682720791567971991883929803789'
+}
+collatz: 59.056s
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> 
+
+
+{ result: 1046, num: '75970747982446463464' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+{ result: 1060, num: '26896207588311783590' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+{ result: 1126, num: '71207086878631203181' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+{ result: 1032, num: '35576087794315982192' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 20
+{ result: 1041, num: '90140312517394910302' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1692, num: '1805421548089399602599066103041466622428' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1810, num: '5885344485888353627162024294646037133929' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1693, num: '3709853827635351889494707449488450944526' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1733, num: '8588746773282777850414479161815038091173' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1800, num: '7290248095046861321492468082062801214953' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> node .\collatz.js 10000 40
+{ result: 1784, num: '5629940817592954104979995256981496982851' }
+PS C:\Users\j\Desktop\Projects\HTML\TC_skill> 
